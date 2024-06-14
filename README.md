@@ -17,4 +17,4 @@
 </ul>
 <br>
 </div>
-<p> Caso queria acessar o resultado final, basta clicar <a href="https://aespa-news.vercel.app/">aqui</a></p>
+<p> Caso queira acessar o resultado final, basta clicar <a href="https://aespa-news.vercel.app/">aqui</a></p>
