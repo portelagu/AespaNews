@@ -1,0 +1,48 @@
+header {
+    background-color: #333333;
+    box-shadow: 0 4px 7px rgba(0, 0, 0, 0.15);
+}
+
+header nav#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1240px;
+    margin: auto;
+    padding: 0 2rem;
+    height: 90px;
+}
+
+header nav#navbar .nav-brand{
+    display: flex;
+    align-items: center;
+
+    gap: 0.9rem
+}
+
+header nav#navbar .nav-brand h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem;
+}
+
+header nav#navbar ul.nav-list {
+    display: flex;
+    align-items: center;
+
+    list-style: none;
+    gap: 2rem;
+}
+
+header nav#navbar ul.nav-list li a{
+    color: #CCCCCC;
+    font-size: 1.1rem;
+    transition: color 0.3s;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+header nav#navbar ul.nav-list li a:hover {
+    color: #FFFFFF;
+    transition: color 0.3s;
+}

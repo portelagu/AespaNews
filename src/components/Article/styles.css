@@ -1,0 +1,21 @@
+
+#article {
+display: flex;
+gap: 1rem;
+}
+
+#article .article-infos h2{
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+#article .article-infos p{
+    margin-bottom: 0.9rem;
+}
+
+#article .article-infos h3{
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: #8695A4;
+    font-size: 0.8rem;
+}
